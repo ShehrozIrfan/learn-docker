@@ -96,3 +96,9 @@ This ensures that the data is not lost when the container is restarted.
 
 - Although the docker run command downloads images automatically when missing, you may want to trigger the download manually.
   To do this, you can use the `docker pull` command. A pull command forces an image to download, whether it is already present or not.
+
+- List the docker images:
+
+  ```
+  docker image ls
+  ```
