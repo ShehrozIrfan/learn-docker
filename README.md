@@ -3,4 +3,5 @@ This is the repository that contains information about various docker commands t
 The commands list:
 - [Use docker images](https://github.com/ShehrozIrfan/learn-docker/blob/master/use-docker-images.md)
 - [Create docker images](https://github.com/ShehrozIrfan/learn-docker/blob/master/create-docker-images.md)
+- [More about running containers](https://github.com/ShehrozIrfan/learn-docker/blob/master/more-about-running-containers.md)
 
